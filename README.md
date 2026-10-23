@@ -1,14 +1,26 @@
 # CircuitForge AI
 
+![CircuitForge AI electronics design cover](circuitforge-cover.webp)
+
 **Free beta · Windows 10/11 x64 · Local-first**
 
 CircuitForge AI helps small hardware teams plan electronics projects in one visual workspace. Start from a template, place supported boards and modules, inspect wiring and power, export a bill of materials, and generate editable starter firmware. Projects stay on your PC.
 
-[Product page and illustrated guide](https://aicraftpad.com/circuitforge-ai/) · [Download beta release](https://github.com/AiCraftPad/circuitforge-ai/releases) · [Contact AI Craft Pad](https://aicraftpad.com/contact/)
+[Product page and illustrated guide](https://aicraftpad.com/circuitforge-ai/) · [Download beta release](https://github.com/AiCraftPad/circuitforge-ai/releases/tag/v1.5.0-beta) · [Contact AI Craft Pad](https://aicraftpad.com/contact/)
+
+## See the app
+
+| Project dashboard | Visual editor |
+| --- | --- |
+| ![CircuitForge AI project dashboard and templates](circuitforge-home.png) | ![CircuitForge AI visual wiring editor](circuitforge-editor.png) |
+
+![CircuitForge AI diagnostic tools](circuitforge-diagnostics.png)
+
+These are screenshots of the beta interface. The cover above is product artwork.
 
 ## Get started
 
-1. Download `CircuitForgeAI-Beta-1.5-Windows.zip` from the latest release and compare its SHA-256 value with `SHA256SUMS.txt`.
+1. Download `CircuitForgeAI-Beta-1.5-Windows.zip` from the [beta release](https://github.com/AiCraftPad/circuitforge-ai/releases/tag/v1.5.0-beta) and compare its SHA-256 value with `SHA256SUMS.txt`.
 2. Extract the entire archive into a writable folder.
 3. Open `CircuitForgeAI/CircuitForge AI.exe`, choose a template or blank project, and save your work locally.
 
